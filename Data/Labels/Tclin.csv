@@ -1,0 +1,705 @@
+id,Symbol,Name,Target Development Level
+17,PDE6H,"Retinal cone rhodopsin-sensitive cGMP 3',5'-cyclic phosphodiesterase subunit gamma",Tclin
+24,PDE6G,"Retinal rod rhodopsin-sensitive cGMP 3',5'-cyclic phosphodiesterase subunit gamma",Tclin
+58,CYP2D6,Cytochrome P450 2D6,Tclin
+117,CXCR4,C-X-C chemokine receptor type 4,Tclin
+139,CSF2RA,Granulocyte-macrophage colony-stimulating factor receptor subunit alpha,Tclin
+140,CSF3R,Granulocyte colony-stimulating factor receptor,Tclin
+173,UGCG,Ceramide glucosyltransferase,Tclin
+207,CNR1,Cannabinoid receptor 1,Tclin
+216,C3,Complement C3,Tclin
+393,CYP11A1,"Cholesterol side-chain cleavage enzyme, mitochondrial",Tclin
+404,CYP3A7,Cytochrome P450 3A7,Tclin
+474,CD79B,B-cell antigen receptor complex-associated protein beta chain,Tclin
+477,CD52,CAMPATH-1 antigen,Tclin
+491,DNMT3A,DNA (cytosine-5)-methyltransferase 3A,Tclin
+495,DNMT1,DNA (cytosine-5)-methyltransferase 1,Tclin
+530,DPEP1,Dipeptidase 1,Tclin
+569,DRD1,D(1A) dopamine receptor,Tclin
+570,DRD2,D(2) dopamine receptor,Tclin
+574,CYP3A4,Cytochrome P450 3A4,Tclin
+678,CFTR,Cystic fibrosis transmembrane conductance regulator,Tclin
+691,POLE,DNA polymerase epsilon catalytic subunit A,Tclin
+696,DPP4,Dipeptidyl peptidase 4,Tclin
+717,EPHA2,Ephrin type-A receptor 2,Tclin
+767,ESR1,Estrogen receptor,Tclin
+784,EGLN1,Egl nine homolog 1,Tclin
+794,EPAS1,Endothelial PAS domain-containing protein 1,Tclin
+800,ERBB4,Receptor tyrosine-protein kinase erbB-4,Tclin
+818,GPR55,G-protein coupled receptor 55,Tclin
+923,ERBB3,Receptor tyrosine-protein kinase erbB-3,Tclin
+984,EPOR,Erythropoietin receptor,Tclin
+989,ERBB2,Receptor tyrosine-protein kinase erbB-2,Tclin
+1031,GABRA1,Gamma-aminobutyric acid receptor subunit alpha-1,Tclin
+1035,GABRD,Gamma-aminobutyric acid receptor subunit delta,Tclin
+1036,GABRG3,Gamma-aminobutyric acid receptor subunit gamma-3,Tclin
+1040,GDF11,Growth/differentiation factor 11,Tclin
+1079,ELANE,Neutrophil elastase,Tclin
+1137,DHFR,Dihydrofolate reductase,Tclin
+1184,NR3C1,Glucocorticoid receptor,Tclin
+1278,POLA1,DNA polymerase alpha catalytic subunit,Tclin
+1282,GABRG1,Gamma-aminobutyric acid receptor subunit gamma-1,Tclin
+1283,GABRG2,Gamma-aminobutyric acid receptor subunit gamma-2,Tclin
+1309,GABRA3,Gamma-aminobutyric acid receptor subunit alpha-3,Tclin
+1311,GABRA4,Gamma-aminobutyric acid receptor subunit alpha-4,Tclin
+1313,GABRA5,Gamma-aminobutyric acid receptor subunit alpha-5,Tclin
+1315,GABRB1,Gamma-aminobutyric acid receptor subunit beta-1,Tclin
+1316,GABRB3,Gamma-aminobutyric acid receptor subunit beta-3,Tclin
+1320,GABRP,Gamma-aminobutyric acid receptor subunit pi,Tclin
+1323,GABRQ,Gamma-aminobutyric acid receptor subunit theta,Tclin
+1365,GABRE,Gamma-aminobutyric acid receptor subunit epsilon,Tclin
+1383,EGLN3,Egl nine homolog 3,Tclin
+1457,F10,Coagulation factor X,Tclin
+1472,EGLN2,Egl nine homolog 2,Tclin
+1623,EZH2,Histone-lysine N-methyltransferase EZH2,Tclin
+1639,EGFR,Epidermal growth factor receptor,Tclin
+1652,ESR2,Estrogen receptor beta,Tclin
+1760,PTK2,Focal adhesion kinase 1,Tclin
+1853,CD38,ADP-ribosyl cyclase/cyclic ADP-ribose hydrolase 1,Tclin
+1969,CSF1R,Macrophage colony-stimulating factor 1 receptor,Tclin
+2054,CTLA4,Cytotoxic T-lymphocyte protein 4,Tclin
+2135,CA5A,"Carbonic anhydrase 5A, mitochondrial",Tclin
+2180,CALM2,Calmodulin-2,Tclin
+2198,CDA,Cytidine deaminase,Tclin
+2223,CACNA1H,Voltage-dependent T-type calcium channel subunit alpha-1H,Tclin
+2228,CALCA,Calcitonin gene-related peptide 1,Tclin
+2232,CTSL,Cathepsin L1,Tclin
+2262,CCKAR,Cholecystokinin receptor type A,Tclin
+2316,CCR4,C-C chemokine receptor type 4,Tclin
+2328,CD86,T-lymphocyte activation antigen CD86,Tclin
+2380,CDK4,Cyclin-dependent kinase 4,Tclin
+2424,CCR5,C-C chemokine receptor type 5,Tclin
+2429,CD3G,T-cell surface glycoprotein CD3 gamma chain,Tclin
+2432,CD33,Myeloid cell surface antigen CD33,Tclin
+2473,CD4,T-cell surface glycoprotein CD4,Tclin
+2541,CD22,B-cell receptor CD22,Tclin
+2647,DMD,Dystrophin,Tclin
+2696,DGAT1,Diacylglycerol O-acyltransferase 1,Tclin
+2737,HSD11B1,Corticosteroid 11-beta-dehydrogenase isozyme 1,Tclin
+2748,GABRA2,Gamma-aminobutyric acid receptor subunit alpha-2,Tclin
+2776,GABRA6,Gamma-aminobutyric acid receptor subunit alpha-6,Tclin
+2778,GABRB2,Gamma-aminobutyric acid receptor subunit beta-2,Tclin
+2807,CYP3A43,Cytochrome P450 3A43,Tclin
+2830,MS4A1,B-lymphocyte antigen CD20,Tclin
+2832,CD19,B-lymphocyte antigen CD19,Tclin
+2924,CD3D,T-cell surface glycoprotein CD3 delta chain,Tclin
+2926,CD3E,T-cell surface glycoprotein CD3 epsilon chain,Tclin
+2927,CD2,T-cell surface antigen CD2,Tclin
+2935,CD80,T-lymphocyte activation antigen CD80,Tclin
+3032,CPS1,"Carbamoyl-phosphate synthase [ammonia], mitochondrial",Tclin
+3074,CRHR1,Corticotropin-releasing factor receptor 1,Tclin
+3096,CYP3A5,Cytochrome P450 3A5,Tclin
+3105,CRBN,Protein cereblon,Tclin
+3196,DDC,Aromatic-L-amino-acid decarboxylase,Tclin
+3236,ODC1,Ornithine decarboxylase,Tclin
+3308,GUCY1A1,Guanylate cyclase soluble subunit alpha-1,Tclin
+3309,GUCY1B2,Guanylate cyclase soluble subunit beta-2,Tclin
+3319,MSTN,Growth/differentiation factor 8,Tclin
+3349,DHODH,"Dihydroorotate dehydrogenase (quinone), mitochondrial",Tclin
+3382,PTH1R,Parathyroid hormone/parathyroid hormone-related peptide receptor,Tclin
+3405,RAF1,RAF proto-oncogene serine/threonine-protein kinase,Tclin
+3437,RET,Proto-oncogene tyrosine-protein kinase receptor Ret,Tclin
+3504,RARG,Retinoic acid receptor gamma,Tclin
+3548,PSMB5,Proteasome subunit beta type-5,Tclin
+3565,PSMB2,Proteasome subunit beta type-2,Tclin
+3579,HCRTR1,Orexin receptor type 1,Tclin
+3626,PPAT,Amidophosphoribosyltransferase,Tclin
+3760,PMEL,Melanocyte protein PMEL,Tclin
+3781,PSMA1,Proteasome subunit alpha type-1,Tclin
+3801,PSMB1,Proteasome subunit beta type-1,Tclin
+3803,PSMB8,Proteasome subunit beta type-8,Tclin
+3820,GART,Trifunctional purine biosynthetic protein adenosine-3,Tclin
+3980,SV2A,Synaptic vesicle glycoprotein 2A,Tclin
+4031,SRD5A1,3-oxo-5-alpha-steroid 4-dehydrogenase 1,Tclin
+4061,RYR1,Ryanodine receptor 1,Tclin
+4075,SLC22A6,Solute carrier family 22 member 6,Tclin
+4107,SCNN1A,Amiloride-sensitive sodium channel subunit alpha,Tclin
+4109,SCNN1G,Amiloride-sensitive sodium channel subunit gamma,Tclin
+4110,SCN2A,Sodium channel protein type 2 subunit alpha,Tclin
+4116,SLC22A12,Solute carrier family 22 member 12,Tclin
+4159,RYR3,Ryanodine receptor 3,Tclin
+4178,TUBB1,Tubulin beta-1 chain,Tclin
+4199,S1PR5,Sphingosine 1-phosphate receptor 5,Tclin
+4227,RYR2,Ryanodine receptor 2,Tclin
+4230,RXRG,Retinoic acid receptor RXR-gamma,Tclin
+4254,S1PR4,Sphingosine 1-phosphate receptor 4,Tclin
+4422,SRC,Proto-oncogene tyrosine-protein kinase Src,Tclin
+4439,ROCK2,Rho-associated protein kinase 2,Tclin
+4556,SLC12A1,Solute carrier family 12 member 1,Tclin
+4571,RXRB,Retinoic acid receptor RXR-beta,Tclin
+4573,SLC29A1,Equilibrative nucleoside transporter 1,Tclin
+4788,ROCK1,Rho-associated protein kinase 1,Tclin
+4793,ROS1,Proto-oncogene tyrosine-protein kinase ROS,Tclin
+4915,ALDH5A1,"Succinate-semialdehyde dehydrogenase, mitochondrial",Tclin
+4993,SSTR1,Somatostatin receptor type 1,Tclin
+5055,SSTR2,Somatostatin receptor type 2,Tclin
+5056,SSTR3,Somatostatin receptor type 3,Tclin
+5057,SSTR4,Somatostatin receptor type 4,Tclin
+5060,SSTR5,Somatostatin receptor type 5,Tclin
+5290,VDR,Vitamin D3 receptor,Tclin
+5291,VEGFB,Vascular endothelial growth factor B,Tclin
+5334,AVPR1A,Vasopressin V1a receptor,Tclin
+5362,FLT4,Vascular endothelial growth factor receptor 3,Tclin
+5367,YES1,Tyrosine-protein kinase Yes,Tclin
+5427,TYMP,Thymidine phosphorylase,Tclin
+5428,TH,Tyrosine 3-monooxygenase,Tclin
+5431,TYK2,Non-receptor tyrosine-protein kinase TYK2,Tclin
+5444,TYMS,Thymidylate synthase,Tclin
+5469,IGHG2,Immunoglobulin heavy constant gamma 2,Tclin
+5475,IL13,Interleukin-13,Tclin
+5477,IL1R1,Interleukin-1 receptor type 1,Tclin
+5522,GHRHR,Growth hormone-releasing hormone receptor,Tclin
+5565,IL5,Interleukin-5,Tclin
+5566,IL3RA,Interleukin-3 receptor subunit alpha,Tclin
+5567,IL1B,Interleukin-1 beta,Tclin
+5612,IL6R,Interleukin-6 receptor subunit alpha,Tclin
+5646,IL17RA,Interleukin-17 receptor A,Tclin
+5648,IL17RC,Interleukin-17 receptor C,Tclin
+5675,IGHG3,Immunoglobulin heavy constant gamma 3,Tclin
+5685,IL2RB,Interleukin-2 receptor subunit beta,Tclin
+5687,IL17A,Interleukin-17A,Tclin
+5688,CSF2RB,Cytokine receptor common subunit beta,Tclin
+5706,IFNG,Interferon gamma,Tclin
+5719,IL2RA,Interleukin-2 receptor subunit alpha,Tclin
+5778,FGF23,Fibroblast growth factor 23,Tclin
+5814,FDPS,Farnesyl pyrophosphate synthase,Tclin
+5845,FYN,Tyrosine-protein kinase Fyn,Tclin
+5869,FOLR1,Folate receptor alpha,Tclin
+5955,HAO1,Hydroxyacid oxidase 1,Tclin
+5998,GUCY2C,Heat-stable enterotoxin receptor,Tclin
+6022,HRH3,Histamine H3 receptor,Tclin
+6025,HMGCR,3-hydroxy-3-methylglutaryl-coenzyme A reductase,Tclin
+6097,HRH2,Histamine H2 receptor,Tclin
+6116,HCAR2,Hydroxycarboxylic acid receptor 2,Tclin
+6117,HCN3,Potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 3,Tclin
+6151,HDAC4,Histone deacetylase 4,Tclin
+6166,HDAC6,Histone deacetylase 6,Tclin
+6169,HDAC1,Histone deacetylase 1,Tclin
+6231,HBA1,Hemoglobin subunit alpha,Tclin
+6240,HDAC7,Histone deacetylase 7,Tclin
+6242,HDAC11,Histone deacetylase 11,Tclin
+6245,HDAC9,Histone deacetylase 9,Tclin
+6248,HDAC2,Histone deacetylase 2,Tclin
+6291,FER,Tyrosine-protein kinase Fer,Tclin
+6301,FNTB,Protein farnesyltransferase subunit beta,Tclin
+6304,FLT3,Receptor-type tyrosine-protein kinase FLT3,Tclin
+6311,FSHR,Follicle-stimulating hormone receptor,Tclin
+6345,GHR,Growth hormone receptor,Tclin
+6346,GHSR,Growth hormone secretagogue receptor type 1,Tclin
+6354,CCKBR,Gastrin/cholecystokinin type B receptor,Tclin
+6380,FKBP1A,Peptidyl-prolyl cis-trans isomerase FKBP1A,Tclin
+6463,FGFR1,Fibroblast growth factor receptor 1,Tclin
+6489,FGFR2,Fibroblast growth factor receptor 2,Tclin
+6492,FGFR4,Fibroblast growth factor receptor 4,Tclin
+6501,FNTA,Protein farnesyltransferase/geranylgeranyltransferase type-1 subunit alpha,Tclin
+6521,FES,Tyrosine-protein kinase Fes/Fps,Tclin
+6562,PTK2B,Protein-tyrosine kinase 2-beta,Tclin
+6591,FCGR3A,Low affinity immunoglobulin gamma Fc region receptor III-A,Tclin
+6605,FCGRT,IgG receptor FcRn large subunit p51,Tclin
+6610,FCGR1A,High affinity immunoglobulin gamma Fc receptor I,Tclin
+6618,FGFR3,Fibroblast growth factor receptor 3,Tclin
+6648,ALAS1,"5-aminolevulinate synthase, nonspecific, mitochondrial",Tclin
+6694,HPD,4-hydroxyphenylpyruvate dioxygenase,Tclin
+6721,HRH1,Histamine H1 receptor,Tclin
+6756,IL11RA,Interleukin-11 receptor subunit alpha,Tclin
+6854,IGHE,Immunoglobulin heavy constant epsilon,Tclin
+6855,IGHG1,Immunoglobulin heavy constant gamma 1,Tclin
+6885,ITGA2B,Integrin alpha-IIb,Tclin
+6886,ITGA4,Integrin alpha-4,Tclin
+6933,MET,Hepatocyte growth factor receptor,Tclin
+6940,CSNK1E,Casein kinase I isoform epsilon,Tclin
+6953,IGHG4,Immunoglobulin heavy constant gamma 4,Tclin
+6956,IGF1R,Insulin-like growth factor 1 receptor,Tclin
+6960,IL12A,Interleukin-12 subunit alpha,Tclin
+6961,IL2RG,Cytokine receptor common subunit gamma,Tclin
+6970,ITGB2,Integrin beta-2,Tclin
+6971,ITGB3,Integrin beta-3,Tclin
+6974,ITK,Tyrosine-protein kinase ITK/TSK,Tclin
+6975,ITGB7,Integrin beta-7,Tclin
+6994,JAK3,Tyrosine-protein kinase JAK3,Tclin
+7028,KCNA6,Potassium voltage-gated channel subfamily A member 6,Tclin
+7029,KCNA7,Potassium voltage-gated channel subfamily A member 7,Tclin
+7034,KCNC1,Potassium voltage-gated channel subfamily C member 1,Tclin
+7035,KCNQ4,Potassium voltage-gated channel subfamily KQT member 4,Tclin
+7036,KCNQ5,Potassium voltage-gated channel subfamily KQT member 5,Tclin
+7038,KCNS1,Potassium voltage-gated channel subfamily S member 1,Tclin
+7562,PLAT,Tissue-type plasminogen activator,Tclin
+7574,TXNRD1,"Thioredoxin reductase 1, cytoplasmic",Tclin
+7612,TRPV1,Transient receptor potential cation channel subfamily V member 1,Tclin
+7653,NGFR,Tumor necrosis factor receptor superfamily member 16,Tclin
+7662,TOP2B,DNA topoisomerase 2-beta,Tclin
+7665,TPH1,Tryptophan 5-hydroxylase 1,Tclin
+7685,TOP1MT,"DNA topoisomerase I, mitochondrial",Tclin
+7699,TPSAB1,Tryptase alpha/beta-1,Tclin
+7707,SNAP25,Synaptosomal-associated protein 25,Tclin
+7721,TNNC1,"Troponin C, slow skeletal and cardiac muscles",Tclin
+7766,TNFSF11,Tumor necrosis factor ligand superfamily member 11,Tclin
+7777,TNF,Tumor necrosis factor,Tclin
+8025,SLC9A3,Sodium/hydrogen exchanger 3,Tclin
+8054,SOST,Sclerostin,Tclin
+8074,SLAMF7,SLAM family member 7,Tclin
+8087,SMO,Smoothened homolog,Tclin
+8172,RXRA,Retinoic acid receptor RXR-alpha,Tclin
+8174,S1PR1,Sphingosine 1-phosphate receptor 1,Tclin
+8177,S1PR3,Sphingosine 1-phosphate receptor 3,Tclin
+8206,SLC6A2,Sodium-dependent noradrenaline transporter,Tclin
+8212,SCNN1B,Amiloride-sensitive sodium channel subunit beta,Tclin
+8214,SCN7A,Sodium channel protein type 7 subunit alpha,Tclin
+8232,SLC22A11,Solute carrier family 22 member 11,Tclin
+8255,SCN11A,Sodium channel protein type 11 subunit alpha,Tclin
+8257,SCTR,Secretin receptor,Tclin
+8304,SLC5A2,Sodium/glucose cotransporter 2,Tclin
+8358,SLC6A3,Sodium-dependent dopamine transporter,Tclin
+8363,SCN5A,Sodium channel protein type 5 subunit alpha,Tclin
+8364,SCN10A,Sodium channel protein type 10 subunit alpha,Tclin
+8369,SCN3A,Sodium channel protein type 3 subunit alpha,Tclin
+8379,SLC12A2,Solute carrier family 12 member 2,Tclin
+8380,SLC12A3,Solute carrier family 12 member 3,Tclin
+8394,SRD5A2,3-oxo-5-alpha-steroid 4-dehydrogenase 2,Tclin
+8449,SLC6A4,Sodium-dependent serotonin transporter,Tclin
+8459,SCN9A,Sodium channel protein type 9 subunit alpha,Tclin
+8472,SLC5A1,Sodium/glucose cotransporter 1,Tclin
+8479,SCN4A,Sodium channel protein type 4 subunit alpha,Tclin
+8481,SCN1A,Sodium channel protein type 1 subunit alpha,Tclin
+8483,SCN8A,Sodium channel protein type 8 subunit alpha,Tclin
+8499,SLC22A8,Solute carrier family 22 member 8,Tclin
+8507,SLC6A1,Sodium- and chloride-dependent GABA transporter 1,Tclin
+8545,TUBB3,Tubulin beta-3 chain,Tclin
+8566,TAAR1,Trace amine-associated receptor 1,Tclin
+8602,TUBB2B,Tubulin beta-2B chain,Tclin
+8727,TACSTD2,Tumor-associated calcium signal transducer 2,Tclin
+8773,TUBB4A,Tubulin beta-4A chain,Tclin
+8775,TUBB,Tubulin beta chain,Tclin
+8835,TUBB2A,Tubulin beta-2A chain,Tclin
+8860,TUBB8,Tubulin beta-8 chain,Tclin
+8867,TUBB6,Tubulin beta-6 chain,Tclin
+8881,F3,Tissue factor,Tclin
+8984,TFRC,Transferrin receptor protein 1,Tclin
+9007,TNFRSF17,Tumor necrosis factor receptor superfamily member 17,Tclin
+9014,MPL,Thrombopoietin receptor,Tclin
+9048,TOP1,DNA topoisomerase 1,Tclin
+9052,TRPA1,Transient receptor potential cation channel subfamily A member 1,Tclin
+9079,TOP2A,DNA topoisomerase 2-alpha,Tclin
+9089,TEK,Angiopoietin-1 receptor,Tclin
+9133,THRA,Thyroid hormone receptor alpha,Tclin
+9192,TNFSF13B,Tumor necrosis factor ligand superfamily member 13B,Tclin
+9223,TLR9,Toll-like receptor 9,Tclin
+9552,SIGMAR1,Sigma non-opioid intracellular receptor 1,Tclin
+9592,PRSS1,Trypsin-1,Tclin
+9598,TSHR,Thyrotropin receptor,Tclin
+9669,TNFRSF8,Tumor necrosis factor receptor superfamily member 8,Tclin
+9675,TTR,Transthyretin,Tclin
+9715,TSLP,Thymic stromal lymphopoietin,Tclin
+9843,PIK3CG,"Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit gamma isoform",Tclin
+9867,PAH,Phenylalanine-4-hydroxylase,Tclin
+9939,PTGER2,Prostaglandin E2 receptor EP2 subtype,Tclin
+9980,PGR,Progesterone receptor,Tclin
+10102,PDGFRA,Platelet-derived growth factor receptor alpha,Tclin
+10136,PIK3CA,"Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit alpha isoform",Tclin
+10142,PLG,Plasminogen,Tclin
+10164,PIK3CD,"Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit delta isoform",Tclin
+10177,PGA5,Pepsin A-5,Tclin
+10198,RAMP2,Receptor activity-modifying protein 2,Tclin
+10215,RAMP1,Receptor activity-modifying protein 1,Tclin
+10260,RRM1,Ribonucleoside-diphosphate reductase large subunit,Tclin
+10298,KRAS,GTPase KRas,Tclin
+10304,REN,Renin,Tclin
+10391,PDE8A,"High affinity cAMP-specific and IBMX-insensitive 3',5'-cyclic phosphodiesterase 8A",Tclin
+10392,PTGDR,Prostaglandin D2 receptor,Tclin
+10399,PDE7A,"High affinity cAMP-specific 3',5'-cyclic phosphodiesterase 7A",Tclin
+10401,PDE10A,"cAMP and cAMP-inhibited cGMP 3',5'-cyclic phosphodiesterase 10A",Tclin
+10402,PDE4D,"cAMP-specific 3',5'-cyclic phosphodiesterase 4D",Tclin
+10461,PDE3A,"cGMP-inhibited 3',5'-cyclic phosphodiesterase A",Tclin
+10463,PDE4C,"cAMP-specific 3',5'-cyclic phosphodiesterase 4C",Tclin
+10470,PTGER4,Prostaglandin E2 receptor EP4 subtype,Tclin
+10475,PDGFRB,Platelet-derived growth factor receptor beta,Tclin
+10479,PTGS1,Prostaglandin G/H synthase 1,Tclin
+10480,RAMP3,Receptor activity-modifying protein 3,Tclin
+10488,F2R,Proteinase-activated receptor 1,Tclin
+10506,PDE8B,"High affinity cAMP-specific and IBMX-insensitive 3',5'-cyclic phosphodiesterase 8B",Tclin
+10508,PARP3,Poly [ADP-ribose] polymerase 3,Tclin
+10515,PDE5A,"cGMP-specific 3',5'-cyclic phosphodiesterase",Tclin
+10516,PDE6A,"Rod cGMP-specific 3',5'-cyclic phosphodiesterase subunit alpha",Tclin
+10520,PDE6D,"Retinal rod rhodopsin-sensitive cGMP 3',5'-cyclic phosphodiesterase subunit delta",Tclin
+10528,PTGER1,Prostaglandin E2 receptor EP1 subtype,Tclin
+10537,PDCD1,Programmed cell death protein 1,Tclin
+10538,PDE3B,"cGMP-inhibited 3',5'-cyclic phosphodiesterase B",Tclin
+10540,PDE4A,"cAMP-specific 3',5'-cyclic phosphodiesterase 4A",Tclin
+10541,PDE4B,"cAMP-specific 3',5'-cyclic phosphodiesterase 4B",Tclin
+10558,TPO,Thyroid peroxidase,Tclin
+10566,PTGFR,Prostaglandin F2-alpha receptor,Tclin
+10648,RARB,Retinoic acid receptor beta,Tclin
+10723,RARA,Retinoic acid receptor alpha,Tclin
+10750,PTGIR,Prostacyclin receptor,Tclin
+10752,PGF,Placenta growth factor,Tclin
+10776,PARP1,Poly [ADP-ribose] polymerase 1,Tclin
+10778,PARP2,Poly [ADP-ribose] polymerase 2,Tclin
+10794,CD274,Programmed cell death 1 ligand 1,Tclin
+10795,PCSK9,Proprotein convertase subtilisin/kexin type 9,Tclin
+10796,PDE1C,"Calcium/calmodulin-dependent 3',5'-cyclic nucleotide phosphodiesterase 1C",Tclin
+10808,PTGS2,Prostaglandin G/H synthase 2,Tclin
+10893,PTGER3,Prostaglandin E2 receptor EP3 subtype,Tclin
+10930,PDE1A,"Calcium/calmodulin-dependent 3',5'-cyclic nucleotide phosphodiesterase 1A",Tclin
+10931,PDE6B,"Rod cGMP-specific 3',5'-cyclic phosphodiesterase subunit beta",Tclin
+10932,PDE6C,"Cone cGMP-specific 3',5'-cyclic phosphodiesterase subunit alpha'",Tclin
+10933,PDE2A,"cGMP-dependent 3',5'-cyclic phosphodiesterase",Tclin
+10948,NDUFB1,NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 1,Tclin
+10949,NDUFA4,Cytochrome c oxidase subunit NDUFA4,Tclin
+10950,NDUFB7,NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 7,Tclin
+10951,NDUFA5,NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 5,Tclin
+10953,NDUFB11,"NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 11, mitochondrial",Tclin
+10956,MME,Neprilysin,Tclin
+10980,PDE7B,"cAMP-specific 3',5'-cyclic phosphodiesterase 7B",Tclin
+10981,PDE1B,"Calcium/calmodulin-dependent 3',5'-cyclic nucleotide phosphodiesterase 1B",Tclin
+11173,RRM2,Ribonucleoside-diphosphate reductase subunit M2,Tclin
+11250,PKLR,Pyruvate kinase PKLR,Tclin
+11327,PRKCD,Protein kinase C delta type,Tclin
+11333,SYK,Tyrosine-protein kinase SYK,Tclin
+11419,LAG3,Lymphocyte activation gene 3 protein,Tclin
+11507,KLK3,Prostate-specific antigen,Tclin
+11527,KLKB1,Plasma kallikrein,Tclin
+11537,NDUFS6,"NADH dehydrogenase [ubiquinone] iron-sulfur protein 6, mitochondrial",Tclin
+11547,NECTIN4,Nectin-4,Tclin
+11729,MAP2K2,Dual specificity mitogen-activated protein kinase kinase 2,Tclin
+11754,NR3C2,Mineralocorticoid receptor,Tclin
+11868,ALOX5,Arachidonate 5-lipoxygenase,Tclin
+11964,PNLIP,Pancreatic triacylglycerol lipase,Tclin
+11973,LEPR,Leptin receptor,Tclin
+12096,GAA,Lysosomal alpha-glucosidase,Tclin
+12122,LCK,Tyrosine-protein kinase Lck,Tclin
+12132,LIPF,Gastric triacylglycerol lipase,Tclin
+12157,NDUFS5,NADH dehydrogenase [ubiquinone] iron-sulfur protein 5,Tclin
+12178,LTK,Leukocyte tyrosine kinase receptor,Tclin
+12341,MGAM,"Maltase-glucoamylase, intestinal",Tclin
+12386,LHCGR,Lutropin-choriogonadotropic hormone receptor,Tclin
+12435,NDUFS7,"NADH dehydrogenase [ubiquinone] iron-sulfur protein 7, mitochondrial",Tclin
+12438,NDUFS8,"NADH dehydrogenase [ubiquinone] iron-sulfur protein 8, mitochondrial",Tclin
+12509,SELP,P-selectin,Tclin
+12524,MC4R,Melanocortin receptor 4,Tclin
+12623,NDUFV1,"NADH dehydrogenase [ubiquinone] flavoprotein 1, mitochondrial",Tclin
+12716,IL4R,Interleukin-4 receptor subunit alpha,Tclin
+12748,JAK1,Tyrosine-protein kinase JAK1,Tclin
+12831,LYN,Tyrosine-protein kinase Lyn,Tclin
+12860,NR1H4,Bile acid receptor,Tclin
+12884,MOCS1,Molybdenum cofactor biosynthesis protein 1,Tclin
+12958,CA5B,"Carbonic anhydrase 5B, mitochondrial",Tclin
+12989,C1R,Complement C1r subcomponent,Tclin
+13027,CA6,Carbonic anhydrase 6,Tclin
+13032,CALCB,Calcitonin gene-related peptide 2,Tclin
+13053,C1S,Complement C1s subcomponent,Tclin
+13062,CACNA1G,Voltage-dependent T-type calcium channel subunit alpha-1G,Tclin
+13063,CACNA1I,Voltage-dependent T-type calcium channel subunit alpha-1I,Tclin
+13067,CA13,Carbonic anhydrase 13,Tclin
+13070,CA1,Carbonic anhydrase 1,Tclin
+13073,CACNA1C,Voltage-dependent L-type calcium channel subunit alpha-1C,Tclin
+13074,CA3,Carbonic anhydrase 3,Tclin
+13085,CALCR,Calcitonin receptor,Tclin
+13097,CASR,Extracellular calcium-sensing receptor,Tclin
+13130,CACNA1B,Voltage-dependent N-type calcium channel subunit alpha-1B,Tclin
+13132,CA2,Carbonic anhydrase 2,Tclin
+13134,CALCRL,Calcitonin gene-related peptide type 1 receptor,Tclin
+13147,CYP11B1,"Cytochrome P450 11B1, mitochondrial",Tclin
+13159,C5AR1,C5a anaphylatoxin chemotactic receptor 1,Tclin
+13167,CACNA2D2,Voltage-dependent calcium channel subunit alpha-2/delta-2,Tclin
+13175,CA4,Carbonic anhydrase 4,Tclin
+13220,CA12,Carbonic anhydrase 12,Tclin
+13223,CACNA1D,Voltage-dependent L-type calcium channel subunit alpha-1D,Tclin
+13234,SERPINC1,Antithrombin-III,Tclin
+13243,APOC3,Apolipoprotein C-III,Tclin
+13343,BRAF,Serine/threonine-protein kinase B-raf,Tclin
+13383,BTK,Tyrosine-protein kinase BTK,Tclin
+13401,CACNA1S,Voltage-dependent L-type calcium channel subunit alpha-1S,Tclin
+13404,CA14,Carbonic anhydrase 14,Tclin
+13405,CA9,Carbonic anhydrase 9,Tclin
+13408,CALM3,Calmodulin-3,Tclin
+13449,CACNA2D1,Voltage-dependent calcium channel subunit alpha-2/delta-1,Tclin
+13454,CA7,Carbonic anhydrase 7,Tclin
+13458,CALM1,Calmodulin-1,Tclin
+13501,BDKRB2,B2 bradykinin receptor,Tclin
+13529,BCR,Breakpoint cluster region protein,Tclin
+13532,CYP19A1,Aromatase,Tclin
+13600,BCL2,Apoptosis regulator Bcl-2,Tclin
+13628,CYP17A1,"Steroid 17-alpha-hydroxylase/17,20 lyase",Tclin
+13813,ATP1A1,Sodium/potassium-transporting ATPase subunit alpha-1,Tclin
+13820,ATP1A4,Sodium/potassium-transporting ATPase subunit alpha-4,Tclin
+13836,CYSLTR1,Cysteinyl leukotriene receptor 1,Tclin
+13904,ATP4A,Potassium-transporting ATPase alpha chain 1,Tclin
+13905,ATP4B,Potassium-transporting ATPase subunit beta,Tclin
+14044,CDK6,Cyclin-dependent kinase 6,Tclin
+14099,C5,Complement C5,Tclin
+14103,POLD1,DNA polymerase delta catalytic subunit,Tclin
+14112,DPYD,Dihydropyrimidine dehydrogenase [NADP(+)],Tclin
+14141,COMT,Catechol O-methyltransferase,Tclin
+14143,DRD3,D(3) dopamine receptor,Tclin
+14150,AVPR1B,Vasopressin V1b receptor,Tclin
+14151,AVPR2,Vasopressin V2 receptor,Tclin
+14169,VKORC1,Vitamin K epoxide reductase complex subunit 1,Tclin
+14293,GGCX,Vitamin K-dependent gamma-carboxylase,Tclin
+14315,XPO1,Exportin-1,Tclin
+14338,SLC18A2,Synaptic vesicular amine transporter,Tclin
+14412,TRPM8,Transient receptor potential cation channel subfamily M member 8,Tclin
+14552,VWF,von Willebrand factor,Tclin
+14627,XDH,Xanthine dehydrogenase/oxidase,Tclin
+14636,TYR,Tyrosinase,Tclin
+15134,VEGFA,Vascular endothelial growth factor A,Tclin
+15139,FLT1,Vascular endothelial growth factor receptor 1,Tclin
+15140,KDR,Vascular endothelial growth factor receptor 2,Tclin
+15254,HTR1B,5-hydroxytryptamine receptor 1B,Tclin
+15266,CHRND,Acetylcholine receptor subunit delta,Tclin
+15275,ADH1A,Alcohol dehydrogenase 1A,Tclin
+15276,ADH1B,Alcohol dehydrogenase 1B,Tclin
+15277,ADRB2,Beta-2 adrenergic receptor,Tclin
+15304,TNK2,Activated CDC42 kinase 1,Tclin
+15305,CHRNA3,Neuronal acetylcholine receptor subunit alpha-3,Tclin
+15307,CHRNG,Acetylcholine receptor subunit gamma,Tclin
+15312,CHRM5,Muscarinic acetylcholine receptor M5,Tclin
+15325,CHRM3,Muscarinic acetylcholine receptor M3,Tclin
+15345,CHRNA1,Acetylcholine receptor subunit alpha,Tclin
+15353,CHRM4,Muscarinic acetylcholine receptor M4,Tclin
+15356,NDUFAB1,"Acyl carrier protein, mitochondrial",Tclin
+15360,ADRA2B,Alpha-2B adrenergic receptor,Tclin
+15369,HTR4,5-hydroxytryptamine receptor 4,Tclin
+15379,CHRM2,Muscarinic acetylcholine receptor M2,Tclin
+15382,CHRNB2,Neuronal acetylcholine receptor subunit beta-2,Tclin
+15384,CHRNB4,Neuronal acetylcholine receptor subunit beta-4,Tclin
+15387,ADRA2C,Alpha-2C adrenergic receptor,Tclin
+15543,HTR2A,5-hydroxytryptamine receptor 2A,Tclin
+15544,ADORA2A,Adenosine receptor A2a,Tclin
+15560,ADORA2B,Adenosine receptor A2b,Tclin
+15568,CHRNA4,Neuronal acetylcholine receptor subunit alpha-4,Tclin
+15570,HSD3B2,3 beta-hydroxysteroid dehydrogenase/Delta 5-->4-isomerase type 2,Tclin
+15575,ABCC9,ATP-binding cassette sub-family C member 9,Tclin
+15580,ACE,Angiotensin-converting enzyme,Tclin
+15595,ACHE,Acetylcholinesterase,Tclin
+15596,CHRNE,Acetylcholine receptor subunit epsilon,Tclin
+15608,ABL1,Tyrosine-protein kinase ABL1,Tclin
+15625,HTR7,5-hydroxytryptamine receptor 7,Tclin
+15632,ABCA1,ATP-binding cassette sub-family A member 1,Tclin
+15678,CHRNB1,Acetylcholine receptor subunit beta,Tclin
+15679,ACLY,ATP-citrate synthase,Tclin
+15686,ADRA1B,Alpha-1B adrenergic receptor,Tclin
+15731,ADRB3,Beta-3 adrenergic receptor,Tclin
+15780,ADA,Adenosine deaminase,Tclin
+15785,GLA,Alpha-galactosidase A,Tclin
+15806,CHRM1,Muscarinic acetylcholine receptor M1,Tclin
+15847,MC2R,Adrenocorticotropic hormone receptor,Tclin
+15848,ADRA2A,Alpha-2A adrenergic receptor,Tclin
+15860,ADH1C,Alcohol dehydrogenase 1C,Tclin
+15871,ADRB1,Beta-1 adrenergic receptor,Tclin
+15882,ALK,ALK tyrosine kinase receptor,Tclin
+15894,ADRA1D,Alpha-1D adrenergic receptor,Tclin
+15898,AGTR1,Type-1 angiotensin II receptor,Tclin
+15910,AHR,Aryl hydrocarbon receptor,Tclin
+15934,ADRA1A,Alpha-1A adrenergic receptor,Tclin
+15965,AR,Androgen receptor,Tclin
+15966,NPR2,Atrial natriuretic peptide receptor 2,Tclin
+15970,MAOB,Amine oxidase [flavin-containing] B,Tclin
+15998,NPR1,Atrial natriuretic peptide receptor 1,Tclin
+16016,ANO1,Anoctamin-1,Tclin
+16037,MAOA,Amine oxidase [flavin-containing] A,Tclin
+16041,AKR1B1,Aldose reductase,Tclin
+16047,AMY2A,Pancreatic alpha-amylase,Tclin
+16051,ANGPT2,Angiopoietin-2,Tclin
+16102,ALDH2,"Aldehyde dehydrogenase, mitochondrial",Tclin
+16115,HTR1D,5-hydroxytryptamine receptor 1D,Tclin
+16117,ABCC8,ATP-binding cassette sub-family C member 8,Tclin
+16120,PRKAA1,5'-AMP-activated protein kinase catalytic subunit alpha-1,Tclin
+16141,HTR1F,5-hydroxytryptamine receptor 1F,Tclin
+16142,APP,Amyloid-beta A4 protein,Tclin
+16165,HTR2C,5-hydroxytryptamine receptor 2C,Tclin
+16170,ADORA1,Adenosine receptor A1,Tclin
+16191,HLA-A,"HLA class I histocompatibility antigen, A-3 alpha chain",Tclin
+16194,HTR1A,5-hydroxytryptamine receptor 1A,Tclin
+16197,HTR3A,5-hydroxytryptamine receptor 3A,Tclin
+16218,HTR2B,5-hydroxytryptamine receptor 2B,Tclin
+16411,UMPS,Uridine 5'-monophosphate synthase,Tclin
+16434,TBXA2R,Thromboxane A2 receptor,Tclin
+16555,TRHR,Thyrotropin-releasing hormone receptor,Tclin
+16629,THRB,Thyroid hormone receptor beta,Tclin
+16655,TLR7,Toll-like receptor 7,Tclin
+16701,F2,Prothrombin,Tclin
+16745,MAPT,Microtubule-associated protein tau,Tclin
+16750,TUBB4B,Tubulin beta-4B chain,Tclin
+16823,CLCN2,Chloride channel protein 2,Tclin
+16863,FXYD2,Sodium/potassium-transporting ATPase subunit gamma,Tclin
+16889,ATP1B2,Sodium/potassium-transporting ATPase subunit beta-2,Tclin
+16891,ATP1A2,Sodium/potassium-transporting ATPase subunit alpha-2,Tclin
+17008,ATP1B3,Sodium/potassium-transporting ATPase subunit beta-3,Tclin
+17101,ATP1A3,Sodium/potassium-transporting ATPase subunit alpha-3,Tclin
+17103,ATP1B1,Sodium/potassium-transporting ATPase subunit beta-1,Tclin
+17273,ANGPTL3,Angiopoietin-related protein 3,Tclin
+17295,NDUFAF1,"Complex I intermediate-associated protein 30, mitochondrial",Tclin
+17341,BCHE,Cholinesterase,Tclin
+17416,IFNAR2,Interferon alpha/beta receptor 2,Tclin
+17449,GRIA4,Glutamate receptor 4,Tclin
+17480,EDNRA,Endothelin-1 receptor,Tclin
+17481,EDNRB,Endothelin receptor type B,Tclin
+17483,GUCY1A2,Guanylate cyclase soluble subunit alpha-2,Tclin
+17484,GUCY1B1,Guanylate cyclase soluble subunit beta-1,Tclin
+17530,KCNG1,Potassium voltage-gated channel subfamily G member 1,Tclin
+17534,KCNH4,Potassium voltage-gated channel subfamily H member 4,Tclin
+17535,KCNH7,Potassium voltage-gated channel subfamily H member 7,Tclin
+17567,HCN1,Potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 1,Tclin
+17568,HCN2,Potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 2,Tclin
+17570,HDAC10,Histone deacetylase 10,Tclin
+17572,HDAC8,Histone deacetylase 8,Tclin
+17582,HDAC5,Histone deacetylase 5,Tclin
+17591,GBA,Glucosylceramidase,Tclin
+17597,KCNH8,Potassium voltage-gated channel subfamily H member 8,Tclin
+17621,DIO1,Type I iodothyronine deiodinase,Tclin
+17624,GRIK4,"Glutamate receptor ionotropic, kainate 4",Tclin
+17625,GRIK5,"Glutamate receptor ionotropic, kainate 5",Tclin
+17630,GRIK1,"Glutamate receptor ionotropic, kainate 1",Tclin
+17638,GSK3B,Glycogen synthase kinase-3 beta,Tclin
+17641,KCNH3,Potassium voltage-gated channel subfamily H member 3,Tclin
+17644,KCNK2,Potassium channel subfamily K member 2,Tclin
+17645,KCNK3,Potassium channel subfamily K member 3,Tclin
+17648,KCNQ2,Potassium voltage-gated channel subfamily KQT member 2,Tclin
+17668,KCNH1,Potassium voltage-gated channel subfamily H member 1,Tclin
+17673,KCNH6,Potassium voltage-gated channel subfamily H member 6,Tclin
+17676,KCNK18,Potassium channel subfamily K member 18,Tclin
+17677,KCNQ1,Potassium voltage-gated channel subfamily KQT member 1,Tclin
+17704,GRIA2,Glutamate receptor 2,Tclin
+17705,GRIA3,Glutamate receptor 3,Tclin
+17706,GRIK2,"Glutamate receptor ionotropic, kainate 2",Tclin
+17708,GRIK3,"Glutamate receptor ionotropic, kainate 3",Tclin
+17728,GSK3A,Glycogen synthase kinase-3 alpha,Tclin
+17729,KCND3,Potassium voltage-gated channel subfamily D member 3,Tclin
+17734,KCNG3,Potassium voltage-gated channel subfamily G member 3,Tclin
+17735,KCNG4,Potassium voltage-gated channel subfamily G member 4,Tclin
+17751,KCNG2,Potassium voltage-gated channel subfamily G member 2,Tclin
+17754,KCNH5,Potassium voltage-gated channel subfamily H member 5,Tclin
+17768,HCK,Tyrosine-protein kinase HCK,Tclin
+17769,KIT,Mast/stem cell growth factor receptor Kit,Tclin
+17770,HCN4,Potassium/sodium hyperpolarization-activated cyclic nucleotide-gated channel 4,Tclin
+17781,HDAC3,Histone deacetylase 3,Tclin
+17795,GCGR,Glucagon receptor,Tclin
+17805,FOLH1,Glutamate carboxypeptidase 2,Tclin
+17820,ABAT,"4-aminobutyrate aminotransferase, mitochondrial",Tclin
+17827,GLRA1,Glycine receptor subunit alpha-1,Tclin
+17891,IFNAR1,Interferon alpha/beta receptor 1,Tclin
+17899,GPR119,Glucose-dependent insulinotropic receptor,Tclin
+17952,GRIA1,Glutamate receptor 1,Tclin
+17968,GSR,"Glutathione reductase, mitochondrial",Tclin
+17973,KCNF1,Potassium voltage-gated channel subfamily F member 1,Tclin
+17974,KCNH2,Potassium voltage-gated channel subfamily H member 2,Tclin
+17979,KCNK9,Potassium channel subfamily K member 9,Tclin
+17980,KCNK10,Potassium channel subfamily K member 10,Tclin
+18029,IMPDH2,Inosine-5'-monophosphate dehydrogenase 2,Tclin
+18037,IMPA1,Inositol monophosphatase 1,Tclin
+18039,GNRHR,Gonadotropin-releasing hormone receptor,Tclin
+18061,INSR,Insulin receptor,Tclin
+18066,GLRB,Glycine receptor subunit beta,Tclin
+18080,IMPDH1,Inosine-5'-monophosphate dehydrogenase 1,Tclin
+18136,GABBR2,Gamma-aminobutyric acid type B receptor subunit 2,Tclin
+18144,GLP1R,Glucagon-like peptide 1 receptor,Tclin
+18145,GLP2R,Glucagon-like peptide 2 receptor,Tclin
+18165,GABBR1,Gamma-aminobutyric acid type B receptor subunit 1,Tclin
+18190,IDH1,Isocitrate dehydrogenase [NADP] cytoplasmic,Tclin
+18191,IDH2,"Isocitrate dehydrogenase [NADP], mitochondrial",Tclin
+18304,HCRTR2,Orexin receptor type 2,Tclin
+18310,P2RY12,P2Y purinoceptor 12,Tclin
+18311,P2RX3,P2X purinoceptor 3,Tclin
+18316,P2RY2,P2Y purinoceptor 2,Tclin
+18385,OPRD1,Delta-type opioid receptor,Tclin
+18386,OPRK1,Kappa-type opioid receptor,Tclin
+18529,OPRM1,Mu-type opioid receptor,Tclin
+18664,OXTR,Oxytocin receptor,Tclin
+18792,GRIN3A,"Glutamate receptor ionotropic, NMDA 3A",Tclin
+18793,GRIN1,"Glutamate receptor ionotropic, NMDA 1",Tclin
+18794,NOD2,Nucleotide-binding oligomerization domain-containing protein 2,Tclin
+18822,NTRK2,BDNF/NT-3 growth factors receptor,Tclin
+18844,PPARA,Peroxisome proliferator-activated receptor alpha,Tclin
+18848,MT-ND6,NADH-ubiquinone oxidoreductase chain 6,Tclin
+18890,SLC10A2,Ileal sodium/bile acid cotransporter,Tclin
+18893,SLC10A1,Sodium/bile acid cotransporter,Tclin
+18902,NTRK1,High affinity nerve growth factor receptor,Tclin
+18903,MT-ND1,NADH-ubiquinone oxidoreductase chain 1,Tclin
+18905,MT-ND3,NADH-ubiquinone oxidoreductase chain 3,Tclin
+18916,GRIN2A,"Glutamate receptor ionotropic, NMDA 2A",Tclin
+18917,GRIN2B,"Glutamate receptor ionotropic, NMDA 2B",Tclin
+18960,NTRK3,NT-3 growth factor receptor,Tclin
+18971,MT-ND5,NADH-ubiquinone oxidoreductase chain 5,Tclin
+19001,NDUFB5,"NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 5, mitochondrial",Tclin
+19002,NDUFC1,"NADH dehydrogenase [ubiquinone] 1 subunit C1, mitochondrial",Tclin
+19004,NDUFB6,NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 6,Tclin
+19023,PPARG,Peroxisome proliferator-activated receptor gamma,Tclin
+19026,MT-ND4L,NADH-ubiquinone oxidoreductase chain 4L,Tclin
+19029,MT-ND4,NADH-ubiquinone oxidoreductase chain 4,Tclin
+19082,NDUFB9,NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 9,Tclin
+19100,PPIA,Peptidyl-prolyl cis-trans isomerase A,Tclin
+19102,NDUFA4L2,NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 4-like 2,Tclin
+19114,TACR1,Substance-P receptor,Tclin
+19134,MT-ND2,NADH-ubiquinone oxidoreductase chain 2,Tclin
+19209,KCNA10,Potassium voltage-gated channel subfamily A member 10,Tclin
+19228,KCNJ11,ATP-sensitive inward rectifier potassium channel 11,Tclin
+19231,KCNA3,Potassium voltage-gated channel subfamily A member 3,Tclin
+19232,KCNA4,Potassium voltage-gated channel subfamily A member 4,Tclin
+19235,KCNA2,Potassium voltage-gated channel subfamily A member 2,Tclin
+19236,KCNC2,Potassium voltage-gated channel subfamily C member 2,Tclin
+19237,KCNC3,Potassium voltage-gated channel subfamily C member 3,Tclin
+19238,KCNS2,Potassium voltage-gated channel subfamily S member 2,Tclin
+19262,IL12B,Interleukin-12 subunit beta,Tclin
+19266,IL23A,Interleukin-23 subunit alpha,Tclin
+19284,KCNA5,Potassium voltage-gated channel subfamily A member 5,Tclin
+19285,KCNMA1,Calcium-activated potassium channel subunit alpha-1,Tclin
+19287,KCNB1,Potassium voltage-gated channel subfamily B member 1,Tclin
+19288,KCNA1,Potassium voltage-gated channel subfamily A member 1,Tclin
+19289,KCNB2,Potassium voltage-gated channel subfamily B member 2,Tclin
+19290,KCNQ3,Potassium voltage-gated channel subfamily KQT member 3,Tclin
+19291,KCNC4,Potassium voltage-gated channel subfamily C member 4,Tclin
+19292,KCND1,Potassium voltage-gated channel subfamily D member 1,Tclin
+19293,KCND2,Potassium voltage-gated channel subfamily D member 2,Tclin
+19295,KCNS3,Potassium voltage-gated channel subfamily S member 3,Tclin
+19297,KCNV1,Potassium voltage-gated channel subfamily V member 1,Tclin
+19298,KCNV2,Potassium voltage-gated channel subfamily V member 2,Tclin
+19323,IL6ST,Interleukin-6 receptor subunit beta,Tclin
+19336,ITGB1,Integrin beta-1,Tclin
+19339,ITGAL,Integrin alpha-L,Tclin
+19355,IL17F,Interleukin-17F,Tclin
+19360,JAK2,Tyrosine-protein kinase JAK2,Tclin
+19399,IL1RAP,Interleukin-1 receptor accessory protein,Tclin
+19401,IL5RA,Interleukin-5 receptor subunit alpha,Tclin
+19406,IL6,Interleukin-6,Tclin
+19416,KEAP1,Kelch-like ECH-associated protein 1,Tclin
+19603,MC1R,Melanocyte-stimulating hormone receptor,Tclin
+19797,MAP2K1,Dual specificity mitogen-activated protein kinase kinase 1,Tclin
+19834,IGF2R,Cation-independent mannose-6-phosphate receptor,Tclin
+19857,MTTP,Microsomal triglyceride transfer protein large subunit,Tclin
+19858,MTNR1A,Melatonin receptor type 1A,Tclin
+19910,MYH7,Myosin-7,Tclin
+19940,NDUFC2,NADH dehydrogenase [ubiquinone] 1 subunit C2,Tclin
+19941,NDUFS1,"NADH-ubiquinone oxidoreductase 75 kDa subunit, mitochondrial",Tclin
+19961,NPC1L1,NPC1-like intracellular cholesterol transporter 1,Tclin
+20002,NDUFB3,NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 3,Tclin
+20004,NDUFS2,"NADH dehydrogenase [ubiquinone] iron-sulfur protein 2, mitochondrial",Tclin
+20006,NDUFS4,"NADH dehydrogenase [ubiquinone] iron-sulfur protein 4, mitochondrial",Tclin
+20008,NDUFAF2,NADH dehydrogenase [ubiquinone] 1 alpha subcomplex assembly factor 2,Tclin
+20030,GRIN3B,"Glutamate receptor ionotropic, NMDA 3B",Tclin
+20054,NDUFA1,NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 1,Tclin
+20055,NDUFA13,NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 13,Tclin
+20063,PNP,Purine nucleoside phosphorylase,Tclin
+20077,GRIN2C,"Glutamate receptor ionotropic, NMDA 2C",Tclin
+20078,GRIN2D,"Glutamate receptor ionotropic, NMDA 2D",Tclin
+20085,NDUFAF4,NADH dehydrogenase [ubiquinone] 1 alpha subcomplex assembly factor 4,Tclin
+20088,NFKB1,Nuclear factor NF-kappa-B p105 subunit,Tclin
+20099,NISCH,Nischarin,Tclin
+20156,NDUFB2,"NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 2, mitochondrial",Tclin
+20157,NDUFA11,NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 11,Tclin
+20158,NDUFB10,NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 10,Tclin
+20225,NDUFA7,NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 7,Tclin
+20226,NDUFA10,"NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 10, mitochondrial",Tclin
+20261,NDUFB8,"NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 8, mitochondrial",Tclin
+20263,NDUFA12,NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 12,Tclin
+20265,NDUFV2,"NADH dehydrogenase [ubiquinone] flavoprotein 2, mitochondrial",Tclin
+20270,NDUFA2,NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 2,Tclin
+20271,NDUFA3,NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 3,Tclin
+20283,NDUFB4,NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 4,Tclin
+20285,NDUFA6,NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 6,Tclin
+20286,NDUFS3,"NADH dehydrogenase [ubiquinone] iron-sulfur protein 3, mitochondrial",Tclin
+20288,NDUFV3,"NADH dehydrogenase [ubiquinone] flavoprotein 3, mitochondrial",Tclin
+20317,NDUFA8,NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 8,Tclin
+20318,NDUFA9,"NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 9, mitochondrial",Tclin
+20320,NDUFAF3,NADH dehydrogenase [ubiquinone] 1 alpha subcomplex assembly factor 3,Tclin
+20357,MTOR,Serine/threonine-protein kinase mTOR,Tclin
+20408,MTNR1B,Melatonin receptor type 1B,Tclin
